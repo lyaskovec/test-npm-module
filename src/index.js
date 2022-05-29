@@ -1,3 +1,4 @@
+ls
 console.log('wwwwwwwww')
 console.log(process)
 setInterval(()=> {
