@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "type": "module",
-  "bin": "./src/index.js",
+  "bin": "./src/run",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
