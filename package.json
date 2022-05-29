@@ -1,9 +1,11 @@
 {
   "name": "test-npm-module",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "type": "module",
-  "bin": "./src/run.sh",
+  "bin": {
+    "test-npm-module": "./src/index.js"
+  },
   "scripts": {
     "start": "node ./src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
