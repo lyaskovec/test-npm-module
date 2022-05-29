@@ -1,7 +1,3 @@
-#!/usr/bin/env node
+#!/bin/bash
 
-console.log('wwwwwwwww')
-console.log(process)
-setInterval(()=> {
-  console.log('Hello world!!!!')
-}, 1000)
+node ./index.js
